@@ -1,0 +1,9 @@
+streamlit>=1.18.0
+pandas>=1.3.0
+feedparser>=6.0.0
+plotly>=5.5.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+python-dateutil>=2.8.0
+logging>=0.5.1.2
+html-text>=0.5.2
